@@ -1,3 +1,3 @@
-console.log( "Hola!" );
-
-let myVar = "Hello";
+function saludo( mensaje ){
+    console.log( mensaje );
+}
