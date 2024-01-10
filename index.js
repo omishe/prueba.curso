@@ -5,3 +5,4 @@ function saludo( mensaje ){
 function rutaRegistro(){
     console.log( "Este es un nuevo registro" );
 }
+alert( "hello" );
